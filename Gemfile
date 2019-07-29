@@ -82,3 +82,6 @@ gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 
 #imagemagick
 gem "mini_magick"
+
+#carrierwave for viddo uploading
+gem 'carrierwave-aws'
