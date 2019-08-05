@@ -85,3 +85,11 @@ gem "mini_magick"
 
 #carrierwave for viddo uploading
 gem 'carrierwave-aws'
+
+#figaro
+gem "figaro"
+
+#fog-aws
+gem "fog-aws"
+
+# end of gemfile
