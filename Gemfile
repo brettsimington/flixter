@@ -95,5 +95,7 @@ gem "fog-aws"
 #gem for stripe payment processing
 gem 'stripe'
 
+#ranked model thing
+gem 'ranked-model'
 
 # end of gemfile
