@@ -92,4 +92,8 @@ gem "figaro"
 #fog-aws
 gem "fog-aws"
 
+#gem for stripe payment processing
+gem 'stripe'
+
+
 # end of gemfile
