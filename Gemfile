@@ -98,4 +98,7 @@ gem 'stripe'
 #ranked model thing
 gem 'ranked-model'
 
+# jquery ui
+gem 'jquery-ui-rails'
+
 # end of gemfile
